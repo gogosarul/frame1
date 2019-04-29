@@ -1,2 +1,2 @@
-# frame1
+# tkinter_python
 frame python
